@@ -44,7 +44,7 @@
 	],
 	"dependencies": {
 		"is": "^3.2.0",
-		"node.extend": "^1.1.6",
+		"node.extend": "^2.0.0",
 		"promiseback": "^2.0.2"
 	},
 	"devDependencies": {
