@@ -5,7 +5,7 @@
          "lon": "169.86667",
          "iso": "MH",
          "status": 1,
-         "name": "nazar",
+         "name": "Nazar",
          "continent": "OC",
          "type": "airport",
          "lat": "11.233333",
@@ -15,7 +15,7 @@
          "iata": "FIV",
          "iso": "US",
          "status": 1,
-         "name": "vasya",
+         "name": "Vasya",
          "continent": "NA",
          "type": "airport",
          "size": "small"
